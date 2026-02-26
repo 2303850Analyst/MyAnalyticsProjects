@@ -29,5 +29,3 @@
 - **Python**: Pandas, NumPy, Matplotlib, SciPy, Seaborn
 - **SQL**: PostgreSQL
 - **Инструменты**: Jupyter Notebook, DBeaver
-
-📧 Контакты: [m2303850@edu.misis.ru] | [tg @sychikoff]
