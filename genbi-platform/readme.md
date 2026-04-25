@@ -312,7 +312,6 @@ synonyms:
 *   ROI год 1: ~630%
 *   окупаемость: около 1 месяца
 
-Подробнее: [business/roi.md](business/roi.md)
 
 ---
 
