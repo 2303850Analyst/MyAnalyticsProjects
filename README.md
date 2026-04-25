@@ -6,6 +6,7 @@
 ## Resume
 
 Актуальное резюме доступно в репозитории:  
+
 [Download resume](./sychikov_vladimir_resume.pdf)
 ---
 
