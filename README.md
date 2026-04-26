@@ -81,6 +81,20 @@ vlasych368@mail.ru
 
 ---
 
+### 5. Recommendation System
+
+Проект по построению рекомендательной системы на основе пользовательских взаимодействий с товарами.
+
+**Что сделано:**
+*   подготовлены данные о взаимодействиях пользователей и объектов
+*   проведен анализ пользовательской активности
+*   построена логика рекомендаций
+*   рассчитаны рекомендации для пользователей
+*   оформлен базовый пайплайн рекомендательной системы
+
+**Стек:** Python, Pandas, NumPy, Scikit-learn, Recommendation Systems  
+[Открыть проект](./recommendation-system)
+
 ## Skills
 
 **Analytics:** Product Analytics, A/B testing, Retention, Cohort Analysis, Churn Analysis, LTV  
