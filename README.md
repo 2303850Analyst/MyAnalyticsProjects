@@ -95,6 +95,15 @@ vlasych368@mail.ru
 **Стек:** Python, Pandas, NumPy, Scikit-learn, Recommendation Systems  
 [Открыть проект](./recommendation-system)
 
+---
+
+## Archive(Учебные работы по самой базе)
+
+*   [Python Practice](./archive/python-practice)
+*   [SQL Practice](./archive/sql-practice)
+
+---
+
 ## Skills
 
 **Analytics:** Product Analytics, A/B testing, Retention, Cohort Analysis, Churn Analysis, LTV  
